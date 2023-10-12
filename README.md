@@ -1,0 +1,2 @@
+# fupisha
+URL shortener site.
